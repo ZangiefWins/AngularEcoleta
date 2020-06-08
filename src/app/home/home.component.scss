@@ -19,10 +19,6 @@
   #page-home .content header {
     margin: 48px 0 0;
   }
-
-  i-feather {
-    color: #FFF
-  }
   
   #page-home .content main {
     flex: 1;
@@ -71,7 +67,7 @@
     transition: background-color 0.2s;
   }
   
-  #page-home .content main a span svg {
+  i-feather {
     color: #FFF;
     width: 20px;
     height: 20px;
